@@ -1,3 +1,10 @@
-# Module IV – LogScope
+# LogScope – JSON Log Analyzer
+**Module IV | Group Python mini-project**
 
-A Python-based JSON Log File Analyzer with an interactive Streamlit dashboard.
+A JSON/JSONL log analysis application. See [`README_Project.md`](README_Project.md) for the detailed project description, input format, sample data and limitations.
+
+## Run
+```bash
+pip install -r requirements.txt
+streamlit run app.py
+```
